@@ -1,2 +1,2 @@
-#!/bin/bash
-ls . ../ /boot -l --ignore=*~
+!#/bin/bash
+ls . -l -a --ignore=*~ ../ -l -a /boot -l -a
