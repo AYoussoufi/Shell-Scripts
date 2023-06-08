@@ -1,2 +1,2 @@
 #!/bin/bash
-find betty -guillaume -exec betty {} \;
+find betty -guillaume -exec betty {} +
