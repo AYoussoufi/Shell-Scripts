@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR == 5' example.txt
+cat example.txt | head -n 3 | tail -n 1
