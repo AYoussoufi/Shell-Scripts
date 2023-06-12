@@ -1,2 +1,2 @@
-#!bin/bash
+#!/bin/bash
 iacta tail -n 1 >> iacta
